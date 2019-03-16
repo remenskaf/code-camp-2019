@@ -1,16 +1,16 @@
 {
   "beer": {
     "bid": 16630,
-    "beer_name": "Celebration Ale",
-    "beer_label": "https://d1c8v1qci5en44.cloudfront.net/site/beer_logos/beer-_16630_sm_96f50e03ae848a4a368a787b38f989.jpeg",
+    "beer_name": "BrrKaaa",
+    "beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-733636_6d49f_sm.jpeg",
     "beer_abv": 6.8,
     "beer_ibu": 65,
-    "beer_description": "The long, cold nights of winter are a little brighter with Celebration Ale. Wonderfully robust and rich, Celebration Ale is dry-hopped for a lively, intense aroma. Brewed especially for the holidays, it is perfect for a festive gathering or for a quiet evening at home.",
-    "beer_style": "American IPA",
+    "beer_description": "Road trip with the smell of lemon, orange and a wind in your hair!",
+    "beer_style": "Pale Ale - American",
     "is_in_production": 1,
     "beer_slug": "sierra-nevada-brewing-co-celebration-ale",
     "is_homebrew": 0,
-    "created_at": "Fri, 24 Dec 2010 10:10:42 +0000",
+    "created_at": "Fri, 24 Dec 2014 10:10:42 +0000",
     "rating_count": 35148,
     "rating_score": 3.78495,
     "stats": {
@@ -21,9 +21,9 @@
     },
     "brewery": {
       "brewery_id": 1142,
-      "brewery_name": "Sierra Nevada Brewing Co.",
-      "brewery_label": "https://d1c8v1qci5en44.cloudfront.net/site/brewery_logos/brewery-1142_f241d.jpeg",
-      "country_name": "United States",
+      "brewery_name": "Nemenikuce, Belgrade",
+      "brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-kabinetbrewery_108047.jpeg",
+      "country_name": "Serbia",
       "contact": {
         "twitter": "SierraNevada",
         "facebook": "http://www.facebook.com/sierranevadabeer",
