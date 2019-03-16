@@ -13,4 +13,4 @@ class App extends Component {
     }
 }
 
-export default Login;
+export default 'Login';

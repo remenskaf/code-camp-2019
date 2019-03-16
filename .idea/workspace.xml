@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07d8567c-b4fb-4dac-ad80-8816687cbd6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/beer-with-us/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/beer/BeerDetail.css" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/beer/BeerDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/login/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/login/Login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/login/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/review/BeerReview.css" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/review/BeerReview.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/review/BeerReview.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/review/BeerReview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/screens/HomeScreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/screens/SplashScreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/search/Search.css" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/search/Search.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/components/search/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/search/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/data/beer.json" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/data/beer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/data/beers.json" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/data/beers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beer-with-us/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +19,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beer-with-us/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/visual-design/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -69,11 +31,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="540">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="30" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/login/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -90,16 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beer-with-us/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beer-with-us/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -119,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" selection-end-line="18" />
+            <state relative-caret-position="150">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -128,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -155,6 +130,7 @@
     <findStrings>
       <find>&quot;your_count&quot;: 5</find>
       <find>sierra-nevada-brewing-co-celebration-ale</find>
+      <find>HomeScreen</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -164,11 +140,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/beer-with-us/src/WelcomeScreen.js" />
-        <option value="$PROJECT_DIR$/beer-with-us/src/App.js" />
         <option value="$PROJECT_DIR$/beer-with-us/src/components/review/BeerReview.js" />
         <option value="$PROJECT_DIR$/beer-with-us/src/data/package.json" />
         <option value="$PROJECT_DIR$/beer-with-us/src/data/beers.json" />
-        <option value="$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.js" />
         <option value="$PROJECT_DIR$/beer-with-us/src/components/screens/BeerWithUs.js" />
         <option value="$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.css" />
         <option value="$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.js" />
@@ -182,6 +156,9 @@
         <option value="$PROJECT_DIR$/beer-with-us-react-app/src/components/screens/SplashScreen.js" />
         <option value="$PROJECT_DIR$/beer-with-us-react-app/src/App.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/beer-with-us/src/App.js" />
+        <option value="$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.js" />
+        <option value="$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.js" />
       </list>
     </option>
   </component>
@@ -196,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,6 +188,51 @@
             <path>
               <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="beer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
               <item name="visual-design" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -223,12 +244,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552761902342" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552770040120" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -266,6 +288,7 @@
       <updated>1552730270042</updated>
       <workItem from="1552730273179" duration="4892000" />
       <workItem from="1552753840898" duration="5855000" />
+      <workItem from="1552762519387" duration="2813000" />
     </task>
     <task id="LOCAL-00001" summary="readme adjusted">
       <created>1552753464663</created>
@@ -295,16 +318,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552759097271</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="In progress -&gt; add splash screen; Rename app.">
+      <created>1552762636137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552762636137</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6457000" />
+    <option name="totallyTimeSpent" value="9270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.18315019" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.18498169" />
       <window_info id="Structure" order="1" sideWeight="0.50155765" side_tool="true" weight="0.30525032" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -323,7 +354,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32881" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4993895" visible="true" weight="0.32881" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4993895" weight="0.4395722" />
       <window_info anchor="bottom" id="Hybris Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -336,7 +367,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.18315019" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.18498169" />
       <window_info id="Structure" order="1" sideWeight="0.50155765" side_tool="true" weight="0.30525032" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -355,7 +386,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32881" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4993895" visible="true" weight="0.32881" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4993895" visible="true" weight="0.4395722" />
       <window_info anchor="bottom" id="Hybris Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -429,20 +460,14 @@
     <MESSAGE value="readme adjusted" />
     <MESSAGE value="README file adjusted." />
     <MESSAGE value="beer detail and beer search json files" />
-    <option name="LAST_COMMIT_MESSAGE" value="beer detail and beer search json files" />
+    <MESSAGE value="In progress -&gt; add splash screen; Rename app." />
+    <option name="LAST_COMMIT_MESSAGE" value="In progress -&gt; add splash screen; Rename app." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/App.js" />
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.js" />
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/App.css" />
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/login/Login.js" />
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.js" />
     <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.css" />
     <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/login/Login.css" />
     <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/review/BeerReview.css" />
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.css" />
     <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/search/Search.css" />
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/data/beers.json" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -488,58 +513,12 @@
     <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/beer-with-us/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -561,13 +540,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beer-with-us/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/beer-with-us/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2098" />
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="10" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/beer-with-us/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.css">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/login/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/beer/BeerDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/SplashScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

@@ -3,10 +3,7 @@ import './HomeScreen.css';
 
 class App extends Component {
     render() {
-        return (
-            <div> Home Page </div>
-        );
+        return "<div>Home Screen</div>";
     }
 }
-
-export default HomeScreen;
+export default 'HomeScreen';

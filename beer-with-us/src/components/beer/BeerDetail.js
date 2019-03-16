@@ -15,4 +15,4 @@ class App extends Component {
     }
 }
 
-export default BeerDetails;
+export default 'BeerDetails';
