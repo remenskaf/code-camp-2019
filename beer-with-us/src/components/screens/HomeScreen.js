@@ -3,7 +3,12 @@ import './HomeScreen.css';
 
 class App extends Component {
     render() {
-        return "<div>Home Screen</div>";
+        return (
+            <div className="container-fluid">
+               Homeeeee
+
+             </div>
+        );
     }
 }
 export default 'HomeScreen';

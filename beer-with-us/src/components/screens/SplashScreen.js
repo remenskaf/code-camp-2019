@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import HomeScreen from './HomeScreen';
 import './SplashScreen.css';
 
 function LoadingMessage() {
@@ -34,7 +33,8 @@ function SplashScreen(WrappedComponent) {
             if (this.state.loading) return LoadingMessage();
 
             // otherwise, show the desired route
-            return <HomeScreen/>;
+            return <WrappedComponent {...this.props} />;
+
         }
     };
 }
