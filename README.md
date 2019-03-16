@@ -3,12 +3,12 @@
  2. Create the app
 ###   npx create-react-app beer-with-us
 
-### once installed the following commands are available:
-### npm start
+Once installed the following commands are available:
+### 'npm start'
 ###    Starts the development server.
 ###
 ### npm run build
-###  Bundles the app into static files for production.
+###  Bundles the app into static files for pro``duction.
 
 ###  npm test
 ###    Starts the test runner.
