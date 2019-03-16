@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07d8567c-b4fb-4dac-ad80-8816687cbd6d" name="Default Changelist" comment="Added folder" />
+    <list default="true" id="07d8567c-b4fb-4dac-ad80-8816687cbd6d" name="Default Changelist" comment="Added folder">
+      <change afterPath="$PROJECT_DIR$/beer-with-us-react-app/src/data/beer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beer-with-us-react-app/src/data/beers.json" beforeDir="false" afterPath="$PROJECT_DIR$/beer-with-us-react-app/src/data/beers.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,23 +28,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visual-design/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/beer-with-us-react-app/src/data/beer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="136" column="10" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
+              <folding>
+                <element signature="n#!!block;n#contact#0;n#!!block;n#brewery#0;n#!!block;n#beer#0;n#!!top" />
+                <element signature="n#!!block;n#location#0;n#!!block;n#brewery#0;n#!!block;n#beer#0;n#!!top" />
+                <element signature="n#!!block;n#media#0;n#!!block;n#beer#0;n#!!top" />
+                <element signature="n#!!block;n#similar#0;n#!!block;n#beer#0;n#!!top" />
+                <element signature="n#!!block;n#beer#0;n#!!block;n#items#0;n#!!block;n#similar#0;n#!!block;n#beer#0;n#!!top" />
+                <element signature="n#!!block;n#brewery#0;n#!!block;n#items#0;n#!!block;n#similar#0;n#!!block;n#beer#0;n#!!top" />
+                <element signature="n#!!block;n#friends#0;n#!!block;n#beer#0;n#!!top" />
+                <element signature="n#!!block;n#vintages#0;n#!!block;n#beer#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="150">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/beer-with-us-react-app/src/data/beers.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+              <folding>
+                <element signature="e#261#805#0" />
+                <element signature="e#826#1592#0" />
+                <element signature="e#1710#2244#0" />
+                <element signature="e#2265#3031#0" />
+                <element signature="e#3149#3597#0" />
+                <element signature="e#3618#4384#0" />
+                <element signature="e#4501#5022#0" />
+                <element signature="e#5043#5809#0" />
+                <element signature="e#5926#6417#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,6 +76,12 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;your_count&quot;: 5</find>
+      <find>sierra-nevada-brewing-co-celebration-ale</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,6 +103,8 @@
         <option value="$PROJECT_DIR$/beer-with-us/src/components/review/BeerReview.css" />
         <option value="$PROJECT_DIR$/beer-with-us/src/components/screens/HomeScreen.css" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/beer-with-us-react-app/src/data/beer.json" />
+        <option value="$PROJECT_DIR$/beer-with-us-react-app/src/data/beers.json" />
       </list>
     </option>
   </component>
@@ -105,7 +134,39 @@
             <path>
               <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="beer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
+              <item name="beer-with-us-react-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-camp" type="462c0819:PsiDirectoryNode" />
               <item name="visual-design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -117,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552754517116" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552758376755" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2275449" />
@@ -153,7 +214,7 @@
       <option name="presentableId" value="Default" />
       <updated>1552730270042</updated>
       <workItem from="1552730273179" duration="4892000" />
-      <workItem from="1552753840898" duration="561000" />
+      <workItem from="1552753840898" duration="3827000" />
     </task>
     <task id="LOCAL-00001" summary="readme adjusted">
       <created>1552753464663</created>
@@ -162,12 +223,12 @@
       <option name="project" value="LOCAL" />
       <updated>1552753464663</updated>
     </task>
-    <task id="LOCAL-00002" summary="readme adjusted">
-      <created>1552750903839</created>
+    <task id="LOCAL-00002" summary="README file adjusted.">
+      <created>1552754821748</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1552750903839</updated>
+      <updated>1552754821748</updated>
     </task>
     <task id="LOCAL-00003" summary="readme adjusted">
       <created>1552752964930</created>
@@ -176,16 +237,16 @@
       <option name="project" value="LOCAL" />
       <updated>1552752964930</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1163000" />
+    <option name="totallyTimeSpent" value="4429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.30525032" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.18315019" />
       <window_info id="Structure" order="1" sideWeight="0.50155765" side_tool="true" weight="0.30525032" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -201,10 +262,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32881" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.4993895" visible="true" weight="0.32881" />
       <window_info anchor="bottom" id="Hybris Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -298,7 +359,8 @@
       <path value="$PROJECT_DIR$/beer-with-us" />
     </ignored-roots>
     <MESSAGE value="readme adjusted" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme adjusted" />
+    <MESSAGE value="README file adjusted." />
+    <option name="LAST_COMMIT_MESSAGE" value="README file adjusted." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/beer-with-us/src/App.js" />
@@ -319,10 +381,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beer-with-us-react-app/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -335,13 +399,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/beer-with-us-react-app/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" />
-          </first_editor>
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us-react-app/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us-react-app/src/data/beer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="136" column="10" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!block;n#contact#0;n#!!block;n#brewery#0;n#!!block;n#beer#0;n#!!top" />
+            <element signature="n#!!block;n#location#0;n#!!block;n#brewery#0;n#!!block;n#beer#0;n#!!top" />
+            <element signature="n#!!block;n#media#0;n#!!block;n#beer#0;n#!!top" />
+            <element signature="n#!!block;n#similar#0;n#!!block;n#beer#0;n#!!top" />
+            <element signature="n#!!block;n#beer#0;n#!!block;n#items#0;n#!!block;n#similar#0;n#!!block;n#beer#0;n#!!top" />
+            <element signature="n#!!block;n#brewery#0;n#!!block;n#items#0;n#!!block;n#similar#0;n#!!block;n#beer#0;n#!!top" />
+            <element signature="n#!!block;n#friends#0;n#!!block;n#beer#0;n#!!top" />
+            <element signature="n#!!block;n#vintages#0;n#!!block;n#beer#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beer-with-us-react-app/src/data/beers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+          <folding>
+            <element signature="e#261#805#0" />
+            <element signature="e#826#1592#0" />
+            <element signature="e#1710#2244#0" />
+            <element signature="e#2265#3031#0" />
+            <element signature="e#3149#3597#0" />
+            <element signature="e#3618#4384#0" />
+            <element signature="e#4501#5022#0" />
+            <element signature="e#5043#5809#0" />
+            <element signature="e#5926#6417#0" />
+          </folding>
         </state>
       </provider>
     </entry>
