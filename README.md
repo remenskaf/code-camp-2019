@@ -10,7 +10,7 @@ Once installed the following commands are available:
     Starts the development server.
 
 ### 'npm run build'
-    Bundles the app into static files for pro``duction.
+    Bundles the app into static files for production.
 
 ###  'npm test'
     Starts the test runner.
