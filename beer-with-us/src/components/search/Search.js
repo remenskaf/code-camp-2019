@@ -15,7 +15,7 @@ class Search extends React.Component {
     }
 
     searchBeers() {
-        fetch("http://localhost:3002/beers")
+        fetch("http://localhost:3001/beers")
             .then(result => result.json())
             .then(result => this.setState({'items': result.items}));
     }
@@ -25,8 +25,8 @@ class Search extends React.Component {
             <ul>
                 {this.state.items.map(function(item, index) {
                     return (<div key={index}>
-                                <h2>{item.beer.beer_name}</h2>
-                                <h3>{item.beer.beer_style}</h3>
+                                <h4>{item.beer.beer_name}</h2>
+                                <h5>{item.beer.beer_style}</h3>
 
                                 <p>{item.beer.beer_description}</p>
                             </div>)
