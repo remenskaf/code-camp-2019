@@ -4,10 +4,10 @@ import './SplashScreen.css';
 function LoadingMessage() {
     return (
         <div className="splash-screen">
-        Wait a moment while we load your app.
-    <div className="loading-dot">.</div>
-    </div>
-);
+            Wait a moment while we load your app.
+            <div className="loading-dot">.</div>
+        </div>
+    );
 }
 
 function SplashScreen(WrappedComponent) {

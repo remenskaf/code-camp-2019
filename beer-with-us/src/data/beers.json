@@ -1,9 +1,4 @@
 {
-  "found": 136,
-  "offset": 0,
-  "limit": 15,
-  "term": "Other Half",
-  "parsed_term": "other* AND half*",
   "beers": {
     "count": 15,
     "items": [
